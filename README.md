@@ -2,7 +2,7 @@
 
 ## Run Instructions
 1. cd into the project directory and run `go mod tidy`
-2. My Docker configuration for NATS JetStream
+2. my docker configuration for NATS JetStream,
 - Run following,
 - create nats-network named as `nats-net`
   ```
